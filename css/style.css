@@ -1,0 +1,58 @@
+body {
+    background-color: #FFF0F0;
+}
+
+.logo {
+    width:23%;
+    padding:1%;
+}
+
+.main {
+    width:37%;
+    padding:1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header h1 {
+    text-align: center;
+    color: #6B0101;
+}
+
+header {
+    background-color: #FFF0F0;
+}
+
+.navigation {
+    background-color: #FFF0F0;
+}
+
+.jumbotron {
+    background-color: #E5B3B3;
+}
+.research h1 {
+    color: #6B0101;
+}
+.card {
+    background-color: #FFF0F0;
+}
+.list-group-item {
+    background-color: #FFF0F0;
+}
+.design h1 {
+    color: #6B0101;
+}
+.testing h1 {
+    color: #6B0101;
+}
+.conclusion h1 {
+    color: #6B0101;
+}
+
+footer {
+    background-color: #6B0101;
+}
+footer .nav-link {
+    color: #DEC803;
+}
